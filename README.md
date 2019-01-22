@@ -139,94 +139,100 @@ Click on a folder to navigate through topics of videos.  Click on the title to w
               <summary>***Junior***</summary>
               <details>
                 <summary>**Science**</summary>
-                - [Full Proof: Action Reaction](###full-proof:-action-reaction)
-                <details>
+                [Full Proof: Action Reaction](#full-proof-action-reaction)
+              <details>
                   <summary>*Biology*</summary>
-                  [Catalyst: Out of Africa](#video1)
+                  [Catalyst: Out of Africa](#catalyst-out-of-africa)
                 </details>
                 </details>
                 <details>
                 <summary>**Health**</summary>
                 <details>
                   <summary>*Personal Development*</summary>
-                  [The Diet Myth](#video2)
+                  [The Diet Myth](#the-diet-myth)
                 </details>
                 </details>
                 <details>
                 <summary>**English**</summary>
-                [Absolute Genius With Dick and Dom: Fox Talbot](#video14)
-                [We Are Young](#video19)
+                [Absolute Genius With Dick and Dom: Fox Talbot](#absolute-genius-with-dick-and-dom-fox-talbot)
+                <br>
+                [We Are Young](#we-are-young)
                 <details>
                   <summary>*Drama*</summary>
-                  [Opera Stories: Arabella](#video7)
+                  [Opera Stories: Arabella](#opera-stories-arabella)
                   </details>
                   <details>
                   <summary>*Culture*</summary>
-                  [The Family Law: Episode 6 - Love Is in the Air](#video25)
+                  [The Family Law: Episode 6 - Love Is in the Air](#the-family-law-episode-6---love-is-in-the-air)
                   <details>
                     <summary>USA</summary>
-                    [Four Corners: Guns in the USA](#video21)
+                    [Four Corners: Guns in the USA](#four-corners-guns-in-the-usa)
                     </details>
                   </details>
                 </details>
                 <details>
                 <summary>**Geography**</summary>
-                [Exploration India](#video11)
+                [Exploration India](#exploration-india)
                 <details>
                   <summary>*Aboriginal Studies*</summary>
-                  [Jila: Painted Waters Of The Great Sandy](#video9)
+                  [Jila: Painted Waters Of The Great Sandy](#jila-painted-waters-of-the-great-sandy)
                   </details>
                 </details>
                 <details>
                 <summary>**History**</summary>
-                [Molly: The Real Thing](#video20)
-                [Hidden Histories: Forgotten Photos of WW1](#video23)
+                [Molly: The Real Thing](#molly-the-real-thing)
+                <br>
+                [Hidden Histories: Forgotten Photos of WW1](#hidden-histories-forgotten-photos-of-ww1)
                 </details>
               </details>
               <details>
               <summary>***Senior***</summary>
               <details>
                 <summary>**Science**</summary>
-                [Insight: Placebo](#video3)
-                [Stephen Hawking's Future Universe: Episode 2 - Code Red](#video13)
+                [Insight: Placebo](#insight-placebo)
+                <br>
+                [Stephen Hawking's Future Universe: Episode 2 - Code Red](#stephen-hawkings-future-universe-episode-2---code-red)
                 <details>
                   <summary>*Psychology*</summary>
-                  [Changing Minds: The Inside Story - Episode 1](#video15)
-                  [Changing Minds: The Inside Story - Episode 2](#video16)
+                  [Changing Minds: The Inside Story - Episode 1](#changing-minds-the-inside-story---episode-1)
+                  <br>
+                  [Changing Minds: The Inside Story - Episode 2](#changing-minds-the-inside-story---episode-2)
                   </details>
                 </details>
                 <details>
                 <summary>**Civics & Citizenship**</summary>
-                [Afghanistan: Inside Australia's War](#video4)
-                [Gayby Baby](#video10)
+                [Afghanistan: Inside Australia's War](#afghanistan-inside-australias-war)
+                <br>
+                [Gayby Baby](#gayby-baby)
                 </details>
                 <details>
                 <summary>**English**</summary>
-                [The Family Law: Episode 5 - Everything's Coming Up Roses](#video24)
+                [The Family Law: Episode 5 - Everything's Coming Up Roses](#the-family-law-episode-5---everythings-coming-up-roses)
                 <details>
                   <summary>*Journalism*</summary>
-                  [Behind the News: 1/03/2016](#video5)
+                  [Behind the News: 1/03/2016](#behind-the-news-1032016)
                   </details>
                 </details>
                 <details>
                 <summary>**Geography**</summary>
-                [Full Proof: Magnets](#video8)
+                [Full Proof: Magnets](#full-proof-magnets)
                 </details>
                 <details>
                 <summary>**History**</summary>
-                [The Valley of the Kings: Death, Burial and the Afterlife](#video6)
-                [The Valley Of The Kings: Life](#video17)
+                [The Valley of the Kings: Death, Burial and the Afterlife](#the-valley-of-the-kings-death-burial-and-the-afterlife)
+                <br>
+                [The Valley Of The Kings: Life](#the-valley-of-the-kings-life)
                 <details>
                   <summary>*Ancient*</summary>
                   <details>
                     <summary>China</summary>
-                    [New Secrets of the Terracotta Warriors](#video22)
+                    [New Secrets of the Terracotta Warriors](#new-secrets-of-the-terracotta-warriors)
                     </details>
                   </details>
                 </details>
                 <details>
                 <summary>**Languages**</summary>
-                [Talking Language: Gunditjmara](#video12)
+                [Talking Language: Gunditjmara](#talking-language-gunditjmara)
                 </details>
               </details>
             </details>
