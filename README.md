@@ -154,7 +154,7 @@ Each video is listed below. Click on the description to find out more:
   </details>
   
   ### The Family Law: Episode 6 - Love Is in the Air
-  ![](http://img.clickviewapp.com/v1/thumbnails/888")
+  ![](http://img.clickviewapp.com/v1/thumbnails/888)
   <details> 
   <summary>Jenny and Danny's twentieth wedding anniversary looms before them, and in an unfortunate bit of timing, Candy and Wayne have also started their own wedding arrangements. (Final) #TheFamilyLawSBS</summary>
   </details>
