@@ -1,42 +1,145 @@
 # ClickView-Programming-Practical
 Browse videos by folder and filter videos by tags
+- [Find videos by title](#find-videos-by-title)
+- [Find videos by folder](#find-videos-by-folder)
+- [Find videos by tag](#find-videos-by-tag)
 
 ## Find videos by title
 Each video is listed below. Click on the title link to take you to the video: 
-<ul>
-              <li>Catalyst: Out of Africa</li>
-              <li>The Diet Myth</li>
-              <li>Insight: Placebo</li>
-              <li>Afghanistan: Inside Australia's War</li>
-              <li>Behind the News: 1/03/2016</li>
-              <li>The Valley of the Kings: Death, Burial and the Afterlife</li>
-              <li>Opera Stories: Arabella</li>
-              <li>Full Proof: Magnets</li>
-              <li>Jila: Painted Waters Of The Great Sandy</li>
-              <li>Gayby Baby</li>
-              <li>Exploration India</li>
-              <li>Talking Language: Gunditjmara</li>
-              <li>Stephen Hawking's Future Universe: Episode 2 - Code Red</li>
-              <li>Absolute Genius With Dick and Dom: Fox Talbot</li>
-              <li>Changing Minds: The Inside Story - Episode 1</li>
-              <li>Changing Minds: The Inside Story - Episode 2</li>
-              <li>The Valley Of The Kings: Life</li>
-              <li>Full Proof: Action Reaction</li>
-              <li>We Are Young</li>
-              <li>Molly: The Real Thing</li>
-              <li>Four Corners: Guns in the USA</li>
-              <li>New Secrets of the Terracotta Warriors</li>
-              <li>Hidden Histories: Forgotten Photos of WW1</li>
-              <li>The Family Law: Episode 5 - Everything's Coming Up Roses</li>
-              <li>The Family Law: Episode 6 - Love Is in the Air</li>
   
-  ## Find videos by folder
-  Click on a folder to navigate through topics of videos.  Click on the title to watch the video.
+  ### Catalyst: Out of Africa
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### The Diet Myth
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Insight: Placebo
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Afghanistan: Inside Australia's War
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Behind the News: 1/03/2016
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### The Valley of the Kings: Death, Burial and the Afterlife
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Opera Stories: Arabella
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Full Proof: Magnets
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Jila: Painted Waters Of The Great Sandy
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Gayby Baby
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Exploration India
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Talking Language: Gunditjmara
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Stephen Hawking's Future Universe: Episode 2 - Code Red
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Absolute Genius With Dick and Dom: Fox Talbot
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Changing Minds: The Inside Story - Episode 1
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Changing Minds: The Inside Story - Episode 2
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### The Valley Of The Kings: Life
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Full Proof: Action Reaction
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### We Are Young
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Molly: The Real Thing
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Four Corners: Guns in the USA
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### New Secrets of the Terracotta Warriors
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### Hidden Histories: Forgotten Photos of WW1
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### The Family Law: Episode 5 - Everything's Coming Up Roses
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+  ### The Family Law: Episode 6 - Love Is in the Air
+  <details> 
+  <summary>Find out more</summary>
+  </details>
+  
+ 
+## Find videos by folder
+Click on a folder to navigate through topics of videos.  Click on the title to watch the video.
               <details>
               <summary>***Junior***</summary>
               <details>
                 <summary>**Science**</summary>
-                [Full Proof: Action Reaction](#video18)
+                - [Full Proof: Action Reaction](###full-proof:-action-reaction)
                 <details>
                   <summary>*Biology*</summary>
                   [Catalyst: Out of Africa](#video1)
